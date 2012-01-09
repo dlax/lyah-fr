@@ -193,8 +193,8 @@ Notez que, le fait que `a` et `b` soient deux variables de type différentes
 n'implique pas que les types doivent être différents. Cela indique juste que la
 première composante et la valeur retournée ont le même type.
 
-<h2 id="classes-de-types-101">
-Classes de types 101
+<h2 id="le-b-a-ba-des-classes-de-types">
+Le B-A-ba des classes de types
 </h2>
 
 <img src="img/classes.png" alt="classes" class="right"/>

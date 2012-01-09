@@ -23,7 +23,7 @@ traduction !](mailto:contact@haskell.fr)
 #. [Types et classes de types](types-et-classes-de-types)
     + [Faites confiance aux types](types-et-classes-de-types#faites-confiance-aux-types)
     + [Variables de type](types-et-classes-de-types#variables-de-type)
-    + [Classes de types 101](types-et-classes-de-types#classes-de-types-101)
+    + [Le B-A-ba des classes de types](types-et-classes-de-types#le-b-a-ba-des-classes-de-types)
 
 #. [Syntaxe des fonctions](syntaxe-des-fonctions)
     + [Filtrage par motif](syntaxe-des-fonctions#filtrage-par-motif)
